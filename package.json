@@ -1,0 +1,11 @@
+{
+  "name": "v108-linux-x64-profiler-elf-base64",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
